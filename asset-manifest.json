@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ritual-app/static/css/main.050eee9b.chunk.css",
+    "main.js": "/ritual-app/static/js/main.494d9e24.chunk.js",
+    "main.js.map": "/ritual-app/static/js/main.494d9e24.chunk.js.map",
+    "runtime-main.js": "/ritual-app/static/js/runtime-main.e76a5d45.js",
+    "runtime-main.js.map": "/ritual-app/static/js/runtime-main.e76a5d45.js.map",
+    "static/js/2.dee76db4.chunk.js": "/ritual-app/static/js/2.dee76db4.chunk.js",
+    "static/js/2.dee76db4.chunk.js.map": "/ritual-app/static/js/2.dee76db4.chunk.js.map",
+    "index.html": "/ritual-app/index.html",
+    "static/css/main.050eee9b.chunk.css.map": "/ritual-app/static/css/main.050eee9b.chunk.css.map",
+    "static/js/2.dee76db4.chunk.js.LICENSE.txt": "/ritual-app/static/js/2.dee76db4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e76a5d45.js",
+    "static/js/2.dee76db4.chunk.js",
+    "static/css/main.050eee9b.chunk.css",
+    "static/js/main.494d9e24.chunk.js"
+  ]
+}

@@ -1,23 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import NavBar from './components/Navbar';
+import MainImg from './components/mainimg';
+import CardSet from './components/cardset';
+import IconSec from './components/iconsec';
+import CapsuleImg from './components/capsuleimg';
+import TraceSec from './components/tracesec';
+import Featured from './components/featured';
+import Clean from './components/clean';
+import MakeYrSelf from './components/makeyrself';
+import Footer from './components/footer';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <MainImg/>
+      <NavBar/>
+      <CardSet/>
+      <IconSec/>
+      <CapsuleImg/>
+      <TraceSec/>
+      <Featured/>
+      <Clean/>
+      <MakeYrSelf/>
+      <Footer/>
     </div>
   );
 }
